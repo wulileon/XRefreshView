@@ -9,6 +9,7 @@ import android.widget.SectionIndexer;
 import android.widget.TextView;
 
 import com.andview.example.stickyListHeaders.StickyListHeadersAdapter;
+
 import java.util.ArrayList;
 import java.util.List;
 

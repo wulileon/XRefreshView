@@ -19,9 +19,9 @@ import android.widget.AdapterView.OnItemLongClickListener;
 import android.widget.FrameLayout;
 import android.widget.ListView;
 import android.widget.SectionIndexer;
-import com.andview.example.stickyListHeaders.WrapperViewList.LifeCycleListener;
 
 import com.andview.example.R;
+import com.andview.example.stickyListHeaders.WrapperViewList.LifeCycleListener;
 
 
 /**
